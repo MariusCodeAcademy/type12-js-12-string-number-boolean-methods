@@ -4,7 +4,7 @@
 1.1 kiekvieno paspaudimo metu keiciam is Day i night ir atvirkcsiai
 
 2. paimti reiksme is <input type="text" placeholder="iveskite skaiciu" value="1.25xy">
-   ir avaizduoti skaitine reiksme result elemente paspaudus result mygtuka
+   ir avaizduoti skaitine reiksme <h2 id="result">Input result: </h2> elemente paspaudus result mygtuka
 
 3. `<p>Crazy fox jumped over the lazy dog over and over again</p>`
    3.1 pakeisti zodi Crazy i 'SuperFast' tame paragrafe
